@@ -1,3 +1,3 @@
-#Exercícios HTML-CSS Curso em Vídeo
+**#Exercícios Curso em Vídeo HTML-CSS **
 
-Lista de Exercícios do curso de HTML-CSS do Prof. Gustavo Guanabara
+##Lista de Exercícios do curso de HTML-CSS do Prof. Gustavo Guanabara
